@@ -9,3 +9,5 @@ run_code.txt
 # Ignore everything in the 'example' directory
 notebooks/*
 !notebooks/overall_probability.ipynb 
+utils/__pycache__
+*.pyc
